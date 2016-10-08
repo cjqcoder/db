@@ -5,3 +5,4 @@ interface IDatabase{
     function query();
     function close();
 }
+echo '1';
